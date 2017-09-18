@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <a href="https://www.ubuntu.com/">
-    <img src="https://design.ubuntu.com/wp-content/uploads/ubuntu-logo14.png" alt="Ubuntu Logo" align="left" style="margin-right: 25px"       height=150>
+    <img width="400" src="https://design.ubuntu.com/wp-content/uploads/ubuntu-logo14.png" alt="Ubuntu Logo">
 </a>
   <br>
   <br>
