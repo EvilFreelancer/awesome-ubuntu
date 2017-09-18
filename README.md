@@ -34,3 +34,5 @@ A curated list of awesome Ubuntu based operation systems.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Evil Freelancer](https://github.com/EvilFreelancer) and [d3d_0k](https://github.com/ded0k) has waived all copyright and related or neighboring rights to this work.
