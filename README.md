@@ -8,33 +8,29 @@ A curated list of awesome Ubuntu based operation systems.
 
 ## Official Ubuntu distributions list
 
-- [Ubuntu](https://xubuntu.org/)
-    [
-    [ISO](https://cdimage.ubuntu.com/ubuntu/releases/),
+- [Ubuntu](https://xubuntu.org/) [
+    [ISO](http://cdimage.ubuntu.com/ubuntu/releases/),
     [Wiki](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-    ] - The official distribution supported by Canonical inc. based on Debian with Unity as default workspace.  
-- [Kubuntu](https://kubuntu.org/)
-    [
-    [ISO](https://cdimage.ubuntu.com/kubuntu/releases/),
+    ] - The official distribution supported by Canonical inc. based on Debian with Unity workspace.  
+- [Kubuntu](https://kubuntu.org/) [
+    [ISO](http://cdimage.ubuntu.com/kubuntu/releases/),
     [Wiki](https://en.wikipedia.org/wiki/Kubuntu)
-    ] - Ubuntu with KDE as default workspace.
-- [Xubuntu](https://xubuntu.org/)
-    [
-    [ISO](https://cdimage.ubuntu.com/xubuntu/releases/),
+    ] - Ubuntu with KDE workspace.
+- [Xubuntu](https://xubuntu.org/) [
+    [ISO](http://cdimage.ubuntu.com/xubuntu/releases/),
     [Wiki](https://en.wikipedia.org/wiki/Xubuntu)
-    ] - Ubuntu with XFCE as default workspace.
-- [Lubuntu](https://lubuntu.me/)
-    [
-    [ISO](https://cdimage.ubuntu.com/lubuntu/releases/),
+    ] - Ubuntu with XFCE workspace.
+- [Lubuntu](https://lubuntu.me/) [
+    [ISO](http://cdimage.ubuntu.com/lubuntu/releases/),
     [Wiki](https://en.wikipedia.org/wiki/Lubuntu)
-    ] - Ubuntu with LXDE as default workspace.
+    ] - Ubuntu with LXDE workspace.
 
 ## Ubuntu based distributions list
 
-- [Linux Mint](https://linuxmint.com/)
-    [
+- [Linux Mint](https://linuxmint.com/) [
     [ISO](https://linuxmint.com/download_all.php)
-    ]
+    [Wiki](https://en.wikipedia.org/wiki/Linux_Mint)
+    ] - Is a community-driven Linux distribution based on Debian and Ubuntu.
 - [Zorin OS](https://zorinos.com/)
 - [Elementary OS](https://elementary.io/)
 - [Linux Lite](https://www.linuxliteos.com/)
