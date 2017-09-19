@@ -43,6 +43,12 @@ A curated list of awesome Ubuntu based operation systems.
 - [Black Lab Linux](http://www.blacklablinux.org/)
 - [feren OS](http://ferenos.weebly.com/)
 - [Bodhi Linux](http://www.bodhilinux.com/)
+- [Ubuntu GNOME](http://ubuntugnome.org/)
+- [Voyager Live](http://voyagerlive.org/)
+- [Ubuntu Studio](http://ubuntustudio.org/)
+- [wattOS](http://www.planetwatt.com/)
+- [BackBox Linux](http://www.backbox.org/)
+- [ExTiX](http://www.extix.se/)
 
 ## License
 
