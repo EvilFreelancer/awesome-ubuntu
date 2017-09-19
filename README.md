@@ -49,6 +49,11 @@ A curated list of awesome Ubuntu based operation systems.
 - [wattOS](http://www.planetwatt.com/)
 - [BackBox Linux](http://www.backbox.org/)
 - [ExTiX](http://www.extix.se/)
+- [Ubuntu DesktopPack](http://ualinux.com/en/ubuntu-oem)
+- [Trisquel GNU/Linux](http://trisquel.info/)
+- [Emmabuntüs](http://emmabuntus.org/)
+- [Ubuntu Kylin](http://www.ubuntukylin.com/)
+- [SharkLinux](http://sharklinuxos.org/)
 
 ## License
 
