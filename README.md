@@ -28,7 +28,7 @@ A curated list of awesome Ubuntu based operation systems.
 ## Ubuntu based distributions list
 
 - [Linux Mint](https://linuxmint.com/) [
-    [ISO](https://linuxmint.com/download_all.php)
+    [ISO](https://linuxmint.com/download_all.php),
     [Wiki](https://en.wikipedia.org/wiki/Linux_Mint)
     ] - Is a community-driven Linux distribution based on Debian and Ubuntu.
 - [Zorin OS](https://zorinos.com/)
