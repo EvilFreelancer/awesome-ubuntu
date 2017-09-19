@@ -8,14 +8,14 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 
 ## Officially supported Ubuntu distributions
 
-|Name|Some links|Description|
-|----|----------|-----------|
+|Name|Links|Description|
+|----|-----|-----------|
 |[Ubuntu](https://ubuntu.com/)|[ISO](http://cdimage.ubuntu.com/ubuntu/releases/), [Wiki](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))|The official distribution supported by Canonical inc. based on Debian with Unity workspace.|
 |[Kubuntu](https://kubuntu.com/)|[ISO](http://cdimage.ubuntu.com/kubuntu/releases/), [Wiki](https://en.wikipedia.org/wiki/Kubuntu)|Ubuntu with KDE workspace.|
 |[Xubuntu](https://kubuntu.com/)|[ISO](http://cdimage.ubuntu.com/xubuntu/releases/), [Wiki](https://en.wikipedia.org/wiki/Xubuntu)|Ubuntu with XFCE workspace.|
 |[Lubuntu](https://kubuntu.com/)|[ISO](http://cdimage.ubuntu.com/lubuntu/releases/), [Wiki](https://en.wikipedia.org/wiki/Lubuntu)|Ubuntu with LXDE workspace.|
 |[Mythbuntu](http://www.mythbuntu.org/)|[ISO](http://cdimage.ubuntu.com/mythbuntu/releases/), [Wiki](https://en.wikipedia.org/wiki/Mythbuntu)|Media center OS based on Ubuntu, which integrated the MythTV media center software as its main function.|
-|[Ubuntu Studio](https://ubuntustudio.org/)|[ISO](http://cdimage.ubuntu.com/ubuntustudio/releases/), [Wiki](https://en.wikipedia.org/wiki/Ubuntu_Studio)|Ubuntu Linux distribution, which is explicitly geared to general multimedia production.|
+|[UbuntuStudio](https://ubuntustudio.org/)|[ISO](http://cdimage.ubuntu.com/ubuntustudio/releases/), [Wiki](https://en.wikipedia.org/wiki/Ubuntu_Studio)|Ubuntu Linux distribution, which is explicitly geared to general multimedia production.|
 
 
 ## Ubuntu-based distributions
