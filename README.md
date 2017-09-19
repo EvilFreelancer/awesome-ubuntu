@@ -36,6 +36,13 @@ A curated list of awesome Ubuntu based operation systems.
 - [Linux Lite](https://www.linuxliteos.com/)
 - [KDE Neon](https://neon.kde.org/)
 - [LXLE](https://lxle.net/)
+- [Ubuntu MATE](https://ubuntu-mate.org/)
+- [Peppermint OS](http://peppermintos.com/)
+- [Ubuntu Budgie](https://ubuntubudgie.org/)
+- [Ultimate Edition](http://ultimateedition.info/)
+- [Black Lab Linux](http://www.blacklablinux.org/)
+- [feren OS](http://ferenos.weebly.com/)
+- [Bodhi Linux](http://www.bodhilinux.com/)
 
 ## License
 
