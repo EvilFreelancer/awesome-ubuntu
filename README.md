@@ -8,7 +8,7 @@ A curated list of awesome Ubuntu based operation systems.
 
 ## Official Ubuntu distributions list
 
-- [Ubuntu](https://ubuntu.org/) [
+- [Ubuntu](https://ubuntu.com/) [
     [ISO](http://cdimage.ubuntu.com/ubuntu/releases/),
     [Wiki](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
     ] - The official distribution supported by Canonical inc. based on Debian with Unity workspace.  
