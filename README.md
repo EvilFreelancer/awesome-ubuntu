@@ -4,8 +4,6 @@
 
 > Ubuntu - is an open source operating system software for computers. It is one of the distribution systems of Linux, and is based on the Debian architecture. It is usually run on personal computers, and is also popular on network servers, usually running the Ubuntu Server variant, with enterprise-class features. Ubuntu runs on the most popular architectures, including Intel, AMD, and ARM-based machines. Ubuntu is also available for tablets and smartphones, with the Ubuntu Touch edition.
 
-Contributions *very welcome* but first see [Contributing](#contributing).
-
 
 # Table of Contents
 
