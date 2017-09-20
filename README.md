@@ -29,44 +29,44 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 <table>
     <tr>
-        <th style="width:20%;">Name</th>
-        <th style="width:20%;">Some links</th>
+        <th style="width:30%;">Name</th>
+        <th style="width:30%;">Some links</th>
         <th>Description</th>
     </tr>
     <tr>
         <td><a href="https://kubuntu.com/">Kubuntu</a></td>
-        <td><a href="http://cdimage.ubuntu.com/kubuntu/releases/">Download page</a><br/>
-            <a href="https://en.wikipedia.org/wiki/Kubuntu">Wikipedia article</a></td>
+        <td><a href="http://cdimage.ubuntu.com/kubuntu/releases/">Download</a><br/>
+            <a href="https://en.wikipedia.org/wiki/Kubuntu">Wikipedia</a></td>
         <td>Ubuntu Desktop with <a href="https://en.wikipedia.org/wiki/KDE">KDE</a> as default desktop environment.</td>
     </tr>
     <tr>
         <td><a href="http://lubuntu.net/">Lubuntu</a></td>
-        <td><a href="http://cdimage.ubuntu.com/lubuntu/releases/">Download page</a><br/>
-            <a href="https://en.wikipedia.org/wiki/Lubuntu">Wikipedia article</a></td>
+        <td><a href="http://cdimage.ubuntu.com/lubuntu/releases/">Download</a><br/>
+            <a href="https://en.wikipedia.org/wiki/Lubuntu">Wikipedia</a></td>
         <td>Ubuntu Desktop with <a href="https://en.wikipedia.org/wiki/LXDE">LXDE</a> as default desktop environment.</td>
     </tr>
     <tr>
         <td><a href="http://lubuntu.net/">Lubuntu Next</a></td>
-        <td><a href="http://cdimage.ubuntu.com/lubuntu-next/releases/">Download page</a><br/>
-            <a href="https://wiki.ubuntu.com/Lubuntu/LXQt">Ubuntu Wiki article</a></td>
+        <td><a href="http://cdimage.ubuntu.com/lubuntu-next/releases/">Download</a><br/>
+            <a href="https://wiki.ubuntu.com/Lubuntu/LXQt">UbuntuWiki</a></td>
         <td>Ubuntu Desktop with <a href="https://en.wikipedia.org/wiki/LXQt">LXQt</a> as default desktop environment.</td>
     </tr>
     <tr>
         <td><a href="https://xubuntu.org/">Xubuntu</a></td>
-        <td><a href="http://cdimage.ubuntu.com/xubuntu/releases/">Download page</a><br/>
-            <a href="https://en.wikipedia.org/wiki/Xubuntu">Wikipedia article</a></td>
+        <td><a href="http://cdimage.ubuntu.com/xubuntu/releases/">Download</a><br/>
+            <a href="https://en.wikipedia.org/wiki/Xubuntu">Wikipedia</a></td>
         <td>Ubuntu Desktop with <a href="https://en.wikipedia.org/wiki/Xfce">XFCE</a> as default desktop environment.</td>
     </tr>
     <tr>
         <td><a href="http://www.mythbuntu.org/">Mythbuntu</a></td>
-        <td><a href="http://cdimage.ubuntu.com/mythbuntu/releases/">Download page</a><br/>
-            <a href="https://en.wikipedia.org/wiki/Mythbuntu">Wikipedia article</a></td>
+        <td><a href="http://cdimage.ubuntu.com/mythbuntu/releases/">Download</a><br/>
+            <a href="https://en.wikipedia.org/wiki/Mythbuntu">Wikipedia</a></td>
         <td>Media center OS based on Ubuntu, which integrated the <a href="https://en.wikipedia.org/wiki/MythTV">MythTV</a> media center software as its main function.</td>
     </tr>
     <tr>
         <td><a href="https://ubuntustudio.org/">Ubuntu Studio</a></td>
-        <td><a href="http://cdimage.ubuntu.com/mythbuntu/releases/">Download page</a><br/>
-            <a href="https://en.wikipedia.org/wiki/Ubuntu_Studio">Wikipedia article</a></td>
+        <td><a href="http://cdimage.ubuntu.com/mythbuntu/releases/">Download</a><br/>
+            <a href="https://en.wikipedia.org/wiki/Ubuntu_Studio">Wikipedia</a></td>
         <td>Ubuntu Linux distribution, which is explicitly geared to general multimedia production.</td>
     </tr>
 </table>
@@ -81,8 +81,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     </tr>
     <tr>
         <td><a href="https://ubuntustudio.org/">Ubuntu Touch</a></td>
-        <td><a href="http://cdimage.ubuntu.com/ubuntu-touch/">Download page</a><br/>
-            <a href="https://en.wikipedia.org/wiki/Ubuntu_Touch">Wikipedia article</a></td>
+        <td><a href="http://cdimage.ubuntu.com/ubuntu-touch/">Download</a><br/>
+            <a href="https://en.wikipedia.org/wiki/Ubuntu_Touch">Wikipedia</a></td>
         <td>Mobile version of the Ubuntu designed for touchscreen mobile devices.</td>
     </tr>
 </table>
