@@ -4,9 +4,25 @@
 
 > Ubuntu - is an open source operating system software for computers. It is one of the distribution systems of Linux, and is based on the Debian architecture. It is usually run on personal computers, and is also popular on network servers, usually running the Ubuntu Server variant, with enterprise-class features. Ubuntu runs on the most popular architectures, including Intel, AMD, and ARM-based machines. Ubuntu is also available for tablets and smartphones, with the Ubuntu Touch edition.
 
-You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) if you are interested in learning more about this wonderful distribution, its history and community.
-
 Contributions *very welcome* but first see [Contributing](#contributing).
+
+
+# Table of Contents
+
+- [Ubuntu distributions](#ubuntu-distributions)
+    - [Officially supported](#officially-supported)
+    - [Official distributions that were terminated](#official-distributions-that-were-terminated)
+    - [Ubuntu-based distributions](#ubuntu-based-distributions)
+- [Discussion Forums](#discussion-forums)
+    - [Ubuntu](#ubuntu)
+    - [IRC channels](#irc-channels)
+    - [Reddit](#reddit)
+- [Contribute](#contribute)
+
+
+## Ubuntu distributions
+
+You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) if you are interested in learning more about this wonderful distribution and its history.
 
 <table>
     <tr>
@@ -25,7 +41,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     </tr>
 </table>
 
-## Officially supported Ubuntu distributions
+### Officially supported
 
 <table>
     <tr>
@@ -71,7 +87,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     </tr>
 </table>
 
-## Official Ubuntu distributions that were terminated
+### Official distributions that were terminated
 
 <table>
     <tr>
@@ -87,8 +103,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     </tr>
 </table>
 
-
-## Ubuntu-based distributions
+### Ubuntu-based distributions
 
 - [Linux Mint](https://linuxmint.com/) [
     [ISO](https://linuxmint.com/download_all.php),
@@ -140,14 +155,26 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Ulteo Open Virtual Desktop](http://www.ulteo.com/)
 - [BackSlash Linux](https://backslashlinux.com/)
 
-## Useful links
+## Discussion Forums
 
-- [Official website](https://www.ubuntu.com)
+### Ubuntu
+
 - [Ask Ubuntu](https://askubuntu.com/) - forum based on the StackOverflow platform
 
-## Contributing
+### IRC channels
 
-Contribution guidelines can be found [here](/CONTRIBUTING.md)
+- [#ubuntu](irc://irc.freenode.net/ubuntu) - Ubuntu help channel
+- [#ubuntuforums](irc://irc.freenode.net/ubuntuforums) - Ubuntu Forums: Forum Community chat
+- [Full list of IRC channels](https://wiki.ubuntu.com/IRC/ChannelList)
+
+### Reddit
+
+- [/r/Ubuntu/](https://www.reddit.com/r/Ubuntu/)
+- [/r/Linux/](https://www.reddit.com/r/linux/)
+
+## Contribute
+
+Contributions are most welcome, please adhere to the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
