@@ -113,7 +113,7 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
     ]- Is an alternative to Windows and macOS, designed to make your computer faster, more powerful and secure.
 - [Elementary OS](https://elementary.io/) [
     [Wiki](https://en.wikipedia.org/wiki/Elementary_OS)
-    ]
+    ] - It is the flagship distribution to showcase the Pantheon desktop environment.
 - [Linux Lite](https://www.linuxliteos.com/) [
     [Dnl](https://www.linuxliteos.com/download.php#current),
     [Wiki](https://en.wikipedia.org/wiki/Linux_Lite)
