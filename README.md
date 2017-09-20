@@ -83,6 +83,12 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
             <a href="https://en.wikipedia.org/wiki/Ubuntu_Studio">Wikipedia</a></td>
         <td>Ubuntu Linux distribution, which is explicitly geared to general multimedia production.</td>
     </tr>
+    <tr>
+        <td><a href="https://www.edubuntu.org/">Edubuntu</a></td>
+        <td><a href="http://cdimage.ubuntu.com/edubuntu/releases/">Download</a><br/>
+            <a href="https://en.wikipedia.org/wiki/Edubuntu">Wikipedia</a></td>
+        <td>Official derivative of the Ubuntu operating system designed for use in classrooms inside schools, homes and communities.</td>
+    </tr>
 </table>
 
 ### Official distributions that were terminated
@@ -129,7 +135,6 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
 - [Bodhi Linux](http://www.bodhilinux.com/)
 - [Ubuntu GNOME](http://ubuntugnome.org/)
 - [Voyager Live](http://voyagerlive.org/)
-- [Ubuntu Studio](http://ubuntustudio.org/)
 - [wattOS](http://www.planetwatt.com/)
 - [BackBox Linux](http://www.backbox.org/)
 - [ExTiX](http://www.extix.se/)
@@ -145,7 +150,6 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
 - [Linuxfx](http://www.linuxfx.org/)
 - [Peach OSI](http://www.peachosi.com/)
 - [Karoshi](http://www.karoshi.org.uk/)
-- [Edubuntu](http://www.edubuntu.org/)
 - [AbulÉdu](http://www.abuledu.org/)
 - [Kaiana](https://kaiana.com.br/)
 - [Linux Mangaka](https://animesoft.wordpress.com/linux/)
