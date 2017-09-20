@@ -11,22 +11,16 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 <table>
     <tr>
         <td style="width:50%;">
-            <h3 class="text-center">Ubuntu Desktop</h3>
-            Ubuntu comes with everything you need to run your organisation, school, home or enterprise. All the essential applications, like an office suite, browsers, email and media apps come pre-installed and thousands more games and applications are available in the Ubuntu Software Centre.
+            <p><b>Ubuntu Desktop</b></p>
+            <p>Ubuntu comes with everything you need to run your organisation, school, home or enterprise. All the essential applications, like an office suite, browsers, email and media apps come pre-installed and thousands more games and applications are available in the Ubuntu Software Centre.</p>
+            <p><a href="https://www.ubuntu.com/desktop">More details about Desktop</a></p>
+            <p><a href="http://cdimage.ubuntu.com/ubuntu/releases/">Download page</a></p>
         </td>
         <td style="width:50%;">
-            <h3 class="text-center">Ubuntu Server</h3>
-            Ubuntu Server brings economic and technical scalability to your datacentre, public or private. Whether you want to deploy an OpenStack cloud, a Hadoop cluster or a 50,000-node render farm, Ubuntu Server delivers the best value scale-out performance available.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.ubuntu.com/desktop">More details about Desktop</a><br/>
-            <a href="http://cdimage.ubuntu.com/ubuntu/releases/">Download page</a>
-        </td>
-        <td>
-            <a href="https://www.ubuntu.com/server">More details about Server</a><br/>
-            <a href="http://cdimage.ubuntu.com/ubuntu-server/">Download page</a>
+            <p><b>Ubuntu Server</b></p>
+            <p>Ubuntu Server brings economic and technical scalability to your datacentre, public or private. Whether you want to deploy an OpenStack cloud, a Hadoop cluster or a 50,000-node render farm, Ubuntu Server delivers the best value scale-out performance available.</p>
+            <p><a href="https://www.ubuntu.com/server">More details about Server</a></p>
+            <p><a href="http://cdimage.ubuntu.com/ubuntu-server/">Download page</a></p>
         </td>
     </tr>
 </table>
