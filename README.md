@@ -107,8 +107,13 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
     [Dnl](https://linuxmint.com/download_all.php),
     [Wiki](https://en.wikipedia.org/wiki/Linux_Mint)
     ] - Is a community-driven Linux distribution based on Debian and Ubuntu.
-- [Zorin OS](https://zorinos.com/) - Zorin OS is an alternative to Windows and macOS, designed to make your computer faster, more powerful and secure.
-- [Elementary OS](https://elementary.io/)
+- [Zorin OS](https://zorinos.com/) [
+    [Dnl](https://zorinos.com/download/),
+    [Wiki](https://de.wikipedia.org/wiki/Zorin_OS)
+    ]- Is an alternative to Windows and macOS, designed to make your computer faster, more powerful and secure.
+- [Elementary OS](https://elementary.io/) [
+    [Wiki](https://en.wikipedia.org/wiki/Elementary_OS)
+    ]
 - [Linux Lite](https://www.linuxliteos.com/) [
     [Dnl](https://www.linuxliteos.com/download.php#current),
     [Wiki](https://en.wikipedia.org/wiki/Linux_Lite)
