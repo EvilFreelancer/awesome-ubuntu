@@ -68,6 +68,14 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Emmabuntüs](http://emmabuntus.org/)
 - [Ubuntu Kylin](http://www.ubuntukylin.com/)
 - [SharkLinux](http://sharklinuxos.org/)
+- [OSGeo-Live](https://live.osgeo.org/)
+- [Runtu](http://www.runtu.org/)
+- [KXStudio](http://kxstudio.linuxaudio.org/)
+- [LuninuX OS](http://luninuxos.com/)
+- [Linuxfx](http://www.linuxfx.org/)
+- [Peach OSI](http://www.peachosi.com/)
+- [Karoshi](http://www.karoshi.org.uk/)
+
 
 ## Useful links
 
