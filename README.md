@@ -75,7 +75,18 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Linuxfx](http://www.linuxfx.org/)
 - [Peach OSI](http://www.peachosi.com/)
 - [Karoshi](http://www.karoshi.org.uk/)
-
+- [Edubuntu](http://www.edubuntu.org/)
+- [AbulÉdu](http://www.abuledu.org/)
+- [Kaiana](https://kaiana.com.br/)
+- [Linux Mangaka](https://animesoft.wordpress.com/linux/)
+- [Vinux](http://vinuxproject.org/)
+- [tuxtrans](https://www.uibk.ac.at/tuxtrans/)
+- [MAX: Madrid_Linux](http://www.educa2.madrid.org/web/max)
+- [Swecha](http://swecha.org/content/swecha-project)
+- [NexentaStor](https://nexenta.com/products/nexentastor)
+- [UTUTO](http://www.ututo.org/)
+- [Ulteo Open Virtual Desktop](http://www.ulteo.com/)
+- [BackSlash Linux](https://backslashlinux.com/)
 
 ## Useful links
 
