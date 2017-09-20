@@ -169,8 +169,8 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
 
 ### IRC channels
 
-- [#ubuntu](irc://irc.freenode.net/ubuntu) - Ubuntu help channel
-- [#ubuntuforums](irc://irc.freenode.net/ubuntuforums) - Ubuntu Forums: Forum Community chat
+- [#ubuntu](https://webchat.freenode.net/?channels=ubuntu) - Ubuntu help channel
+- [#ubuntuforums](https://webchat.freenode.net/?channels=ubuntuforums) - Ubuntu Forums: Forum Community chat
 - [Full list of IRC channels](https://wiki.ubuntu.com/IRC/ChannelList)
 
 ### Reddit
