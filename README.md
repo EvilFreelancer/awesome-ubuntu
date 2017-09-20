@@ -104,13 +104,13 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
 ### Ubuntu-based distributions
 
 - [Linux Mint](https://linuxmint.com/) [
-    [ISO](https://linuxmint.com/download_all.php),
+    [Dnl](https://linuxmint.com/download_all.php),
     [Wiki](https://en.wikipedia.org/wiki/Linux_Mint)
     ] - Is a community-driven Linux distribution based on Debian and Ubuntu.
 - [Zorin OS](https://zorinos.com/) - Zorin OS is an alternative to Windows and macOS, designed to make your computer faster, more powerful and secure.
 - [Elementary OS](https://elementary.io/)
 - [Linux Lite](https://www.linuxliteos.com/) [
-    [ISO](https://www.linuxliteos.com/download.php#current),
+    [Dnl](https://www.linuxliteos.com/download.php#current),
     [Wiki](https://en.wikipedia.org/wiki/Linux_Lite)
     ] - This distribution providing the same software available for Windows computers.
 - [KDE Neon](https://neon.kde.org/)
@@ -149,7 +149,10 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
 - [MAX: Madrid_Linux](http://www.educa2.madrid.org/web/max)
 - [Swecha](http://swecha.org/content/swecha-project)
 - [NexentaStor](https://nexenta.com/products/nexentastor)
-- [UTUTO](http://www.ututo.org/)
+- [Ututo UL](http://www.ututo.org/) [
+    [Dnl](https://www.ututo.org/downloads/),
+    [Wiki](https://en.wikipedia.org/wiki/Ututo)
+    ] - Utilize Ubuntu as the distro base, with all nonfree software removed as usual in the Ututo project, and Linux-libre as the kernel.
 - [Ulteo Open Virtual Desktop](http://www.ulteo.com/)
 - [BackSlash Linux](https://backslashlinux.com/)
 
