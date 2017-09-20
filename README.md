@@ -124,9 +124,9 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
     [Dnl](https://www.linuxliteos.com/download.php#current),
     [Wiki](https://en.wikipedia.org/wiki/Linux_Lite)
     ] - This distribution providing the same software available for Windows computers.
-- [KDE Neon](https://neon.kde.org/)
-- [LXLE](https://lxle.net/)
-- [Ubuntu MATE](https://ubuntu-mate.org/)
+- [KDE Neon](https://neon.kde.org/) - KDE neon is the intersection of these needs using a stable Ubuntu long-term release as its core, packaging the hottest software fresh from the KDE Community ovens.
+- [LXLE](https://lxle.net/) - LXLE is based on Lubuntu which is an Ubuntu OS using the LXDE desktop environment. It is designed to be a drop-in and go OS, primarily for aging computers.
+- [Ubuntu MATE](https://ubuntu-mate.org/) - A community developed, Ubuntu based operating system that beautifully integrates the MATE desktop.
 - [Peppermint OS](http://peppermintos.com/)
 - [Ubuntu Budgie](https://ubuntubudgie.org/)
 - [Ultimate Edition](http://ultimateedition.info/)
