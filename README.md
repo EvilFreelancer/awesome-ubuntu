@@ -127,13 +127,13 @@ You can read the [article on Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(op
 - [KDE Neon](https://neon.kde.org/) - KDE neon is the intersection of these needs using a stable Ubuntu long-term release as its core, packaging the hottest software fresh from the KDE Community ovens.
 - [LXLE](https://lxle.net/) - LXLE is based on Lubuntu which is an Ubuntu OS using the LXDE desktop environment. It is designed to be a drop-in and go OS, primarily for aging computers.
 - [Ubuntu MATE](https://ubuntu-mate.org/) - A community developed, Ubuntu based operating system that beautifully integrates the MATE desktop.
-- [Peppermint OS](http://peppermintos.com/)
-- [Ubuntu Budgie](https://ubuntubudgie.org/)
+- [Peppermint OS](http://peppermintos.com/) - is a cloud-centric OS based on Lubuntu, a derivative of the Ubuntu Linux operating system that uses the LXDE desktop environment.[4] Peppermint's developers have written about their principles of providing a familiar environment for newcomers to Linux, which requires relatively low hardware resources to run.
+- [Ubuntu Budgie](https://ubuntubudgie.org/) - is an official community flavor of Ubuntu featuring the Budgie desktop. It combines the stable and thoroughly-tested Ubuntu core with a modern, lightweight and traditional-looking desktop developed by the Solus project.
 - [Ultimate Edition](http://ultimateedition.info/)
-- [Black Lab Linux](http://www.blacklablinux.org/)
+- [Black Lab Linux](http://www.blacklablinux.org/) - is a user-friendly, commercial desktop and server Linux distribution based on Ubuntu. Some of its most interesting features include support for popular browser plugins, addition of packages for multimedia production, content creation and software development, and an innovative desktop layout based on GNOME Shell. Separate editions with KDE and Xfce desktops are also available. The company behind the distribution also sells a desktop mini-system with Black Lab Linux pre-installed.
 - [feren OS](http://ferenos.weebly.com/)
 - [Bodhi Linux](http://www.bodhilinux.com/)
-- [Ubuntu GNOME](http://ubuntugnome.org/)
+- [Ubuntu GNOME](http://ubuntugnome.org/) - is a Linux distribution, distributed as free and open-source software. It uses a pure GNOME desktop environment with GNOME Shell, rather than the Unity graphical shell. Starting with version 13.04 it became an official "flavour" of the Ubuntu operating system.
 - [Voyager Live](http://voyagerlive.org/)
 - [wattOS](http://www.planetwatt.com/)
 - [BackBox Linux](http://www.backbox.org/)
